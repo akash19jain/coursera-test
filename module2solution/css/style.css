@@ -24,10 +24,10 @@ section>h2{
 	border-left: 1px solid black;
 	float:right;
 	margin:0;
-	width:200px;
+	width:300px;
 	text-align: center;
 	font-weight: bold;
-	height:40px;
+	height:30px;
 	padding-top: 7px;
 
 }
@@ -37,7 +37,7 @@ section.SACHIN>h2{
 }
 
 section.DHONI>h2{
-	background-color: #123456;
+	background-color: #121212;
 }
 
 section.KOHLI>h2{
