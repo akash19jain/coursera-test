@@ -15,20 +15,22 @@ h1{
 
 section{
 	border: 1px solid black;
-	margin: 15px;
+	margin: 10px;
 	background-color: #ffffff;
 }
 
 section>h2{
+	float:right;
 	border-bottom: 1px solid black;
 	border-left: 1px solid black;
-	float:right;
 	margin:0;
-	width:300px;
+	width:250px;
 	text-align: center;
+	font-style: Times;
+	font-size: 20px;
 	font-weight: bold;
 	height:30px;
-	padding-top: 7px;
+	padding-top: 10px;
 
 }
 
@@ -37,7 +39,7 @@ section.SACHIN>h2{
 }
 
 section.DHONI>h2{
-	background-color: #121212;
+	background-color: #10328a;
 }
 
 section.KOHLI>h2{
@@ -45,7 +47,7 @@ section.KOHLI>h2{
 }
 
 section>p{
-	padding: 35px 10px 10px 10px;
+	padding: 40px 15x 15px 15px;
 }
 
 .row{
